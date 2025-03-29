@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#Ricardo Meireles e Lucas Vinício
-
-
 import string
 
 #1
